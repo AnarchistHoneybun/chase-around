@@ -1,1 +1,1 @@
-![Video Title](https://github.com/AnarchistHoneybun/chase-around/raw/main/Attachments/vid_rec.mp4)
+<img src="Attachments/gameplay.gif" alt="game_ss" width="70%"/>
